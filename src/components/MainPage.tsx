@@ -148,9 +148,6 @@ const MainPage: React.FC = () => {
               )}
             </section>
           </div>
-          <p className="helper-note">
-            Not: Kişi listesi şu an hardcoded. Sonraki adımda bunu veritabanındaki kayıtlı kullanıcılardan çekeceğiz.
-          </p>
         </main>
       </div>
     </div>
